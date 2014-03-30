@@ -527,3 +527,285 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2014-03-28 23:11:22,715 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
 2014-03-28 23:11:22,716 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2014-03-28 23:11:22,716 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-28 23:13:55,814 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-28 23:13:55,895 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:13:55,895 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-28 23:13:55,896 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:13:55,896 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-28 23:14:22,898 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-28 23:14:23,016 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:14:23,016 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-28 23:14:23,017 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:14:23,017 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-28 23:14:26,532 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-28 23:14:26,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:14:26,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-28 23:14:26,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:14:26,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-28 23:14:31,010 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-28 23:14:31,072 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:14:31,072 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-28 23:14:31,073 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:14:31,073 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-28 23:15:05,012 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-28 23:15:05,086 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:15:05,087 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-28 23:15:05,088 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-28 23:15:05,088 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-29 07:33:03,067 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-29 07:33:22,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-29 07:33:22,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-29 07:33:22,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-29 07:33:22,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:23:18,080 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-30 22:23:29,797 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:23:29,797 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:23:29,799 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:23:29,799 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:28:28,832 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-03-30 22:28:28,873 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-30 22:28:28,976 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateExample/src/main/java
+2014-03-30 22:28:28,977 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateExample/src/test/java
+2014-03-30 22:28:29,393 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:28:29,394 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:28:29,395 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:28:29,395 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:28:57,696 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:28:57,696 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:28:57,698 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:28:57,698 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:29:07,620 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:29:07,621 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:29:07,621 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:29:07,622 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:29:11,709 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:29:11,709 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:29:11,710 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:29:11,710 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:29:13,081 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:29:13,081 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:29:13,082 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:29:13,082 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:32:10,938 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:10,938 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:32:10,939 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:10,939 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:32:22,960 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:22,961 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:32:22,962 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:22,962 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:32:25,290 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:25,290 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:32:25,292 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:25,292 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:32:47,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:47,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:32:47,303 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:32:47,303 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:33:28,690 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:28,690 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:33:28,691 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:28,691 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:33:30,818 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:30,818 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:33:30,819 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:30,819 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:33:35,224 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:35,225 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:33:35,225 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:35,226 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:33:38,555 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:38,556 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:33:38,556 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:38,557 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:33:53,708 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:53,708 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:33:53,709 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:53,709 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:33:56,617 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:56,617 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:33:56,619 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:33:56,619 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:34:01,424 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:01,424 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:34:01,425 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:01,425 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:34:28,459 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:28,459 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:34:28,460 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:28,460 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:34:33,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:33,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:34:33,603 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:33,603 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:34:36,396 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:36,397 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:34:36,397 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:36,397 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:34:38,563 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:38,563 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:34:38,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:34:38,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:36:03,498 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:03,498 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:36:03,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:03,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:36:14,670 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:14,670 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:36:14,671 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:14,671 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:36:30,933 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:30,934 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:36:30,934 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:30,935 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:36:53,279 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-03-30 22:36:53,321 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-30 22:36:53,406 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateExample/src/main/java
+2014-03-30 22:36:53,407 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateExample/src/test/java
+2014-03-30 22:36:53,625 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:53,625 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:36:53,626 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:36:53,626 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:37:55,208 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:37:55,208 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:37:55,209 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:37:55,209 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:39:36,023 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:39:36,023 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:39:36,024 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:39:36,024 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:39:53,345 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:39:53,355 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-03-30 22:39:53,356 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:39:53,356 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:40:14,318 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:40:14,318 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:40:14,319 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:40:14,319 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:41:44,234 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:41:44,234 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:41:44,235 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:41:44,236 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:41:56,251 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:41:56,252 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:41:56,253 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:41:56,253 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:42:11,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:11,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:42:11,611 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:11,612 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:42:29,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:29,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:42:29,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:29,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:42:38,087 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:38,087 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:42:38,088 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:38,088 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:42:44,466 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:44,466 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:42:44,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:42:44,467 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:45:07,574 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-30 22:45:07,679 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:45:07,679 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:45:07,680 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:45:07,680 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:45:16,275 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2014-03-30 22:45:16,277 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring:2.5.6
+2014-03-30 22:45:16,280 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for cglib:cglib:2.2
+2014-03-30 22:45:16,291 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for asm:asm:3.1
+2014-03-30 22:45:16,684 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:17,159 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/mysql/mysql-connector-java/5.1.9/mysql-connector-java-5.1.9-sources.jar
+2014-03-30 22:45:17,204 [Worker-7] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for mysql:mysql-connector-java:5.1.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:sources:5.1.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:717) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:694) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:210) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:184) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:140) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2014-03-30 22:45:17,207 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:17,490 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/hibernate/hibernate/3.2.3.ga/hibernate-3.2.3.ga-sources.jar
+2014-03-30 22:45:17,494 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:17,613 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate/3.2.3.ga/hibernate-3.2.3.ga-sources.jar
+2014-03-30 22:45:19,800 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate/3.2.3.ga/hibernate-3.2.3.ga-sources.jar
+2014-03-30 22:45:20,168 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate:3.2.3.ga
+2014-03-30 22:45:20,170 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:20,455 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3-sources.jar
+2014-03-30 22:45:20,459 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:20,508 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3-sources.jar
+2014-03-30 22:45:20,714 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3-sources.jar
+2014-03-30 22:45:21,001 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache:1.2.3
+2014-03-30 22:45:21,003 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:21,299 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/javax/transaction/jta/1.0.1B/jta-1.0.1B-sources.jar
+2014-03-30 22:45:21,303 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:21,352 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/transaction/jta/1.0.1B/jta-1.0.1B-sources.jar
+2014-03-30 22:45:21,358 [Worker-7] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for javax.transaction:jta:1.0.1B
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.transaction:jta:jar:sources:1.0.1B
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:717) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:694) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:210) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:184) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:140) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2014-03-30 22:45:21,360 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:21,644 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/asm/asm-attrs/1.5.3/asm-attrs-1.5.3-sources.jar
+2014-03-30 22:45:21,648 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:21,697 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/asm/asm-attrs/1.5.3/asm-attrs-1.5.3-sources.jar
+2014-03-30 22:45:21,701 [Worker-7] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for asm:asm-attrs:1.5.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact asm:asm-attrs:jar:sources:1.5.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:717) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:694) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:210) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:184) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:140) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2014-03-30 22:45:21,739 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for dom4j:dom4j:1.6.1
+2014-03-30 22:45:21,742 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for xml-apis:xml-apis:1.0.b2
+2014-03-30 22:45:21,774 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.1
+2014-03-30 22:45:21,777 [Worker-7] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2014-03-30 22:45:21,780 [Worker-7] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-03-30 22:45:22,072 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar
+2014-03-30 22:45:22,076 [Worker-7] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for antlr:antlr:2.7.7
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:750) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:717) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:694) ~[org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:210) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:184) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:140) [org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2014-03-30 22:45:26,558 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-03-30 22:45:26,600 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:HibernateExample:1.0-SNAPSHOT @ D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\pom.xml.
+2014-03-30 22:45:26,691 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateExample/src/main/java
+2014-03-30 22:45:26,692 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateExample/src/test/java
+2014-03-30 22:45:26,870 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:45:26,870 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\main\resources
+2014-03-30 22:45:26,871 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-30 22:45:26,871 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DATA\WORKSPACE\GIT_OPENSHIFT\HibernateExample\src\test\resources
+2014-03-30 22:48:09,662 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-03-30 22:48:09,889 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
