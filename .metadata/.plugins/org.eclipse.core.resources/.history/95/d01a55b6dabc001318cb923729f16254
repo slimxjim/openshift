@@ -1,0 +1,44 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Zápisky</title>
+    </head>
+    <body>
+
+
+        <c:out value="<h1>Ahoj</h1>" />
+        <!-- slouží pro bezpečné vypisování řetězců a proměnných, díky jeho parametru
+        escapeXML, který je primárně zapnutý, tento tag vypíše „<h1>Ahoj</h1>“,
+        tedy &lt;h1&gt;Ahoj&lt;/h1&gt; -->
+
+        <c:catch></c:catch>
+        <!-- pokud se kód mezi těmito tagy nepovede zpracovat,
+        nezobrazí se chybové hlášení, pouze se tento blok přeskočí a nevypíše -->
+
+        <c:if test="${2 > 1}">
+          <p>2 je větší než 1<p>
+        </c:if>
+        <!-- pokud se operace zadaná pomocí EL v parametru test ukáže
+        jako pravdivá, vypíše se tělo tagu  -->
+
+        <c:forEach var="z" items="${zmrzliny}">
+           <c:out value="${z.nazev}"/>
+            <c:out value="${z.barva}"/>
+        </c:forEach>
+        <!-- vypíše vlastnosti všech zmrzlin ze seznamu -->
+
+        <h1>Zápisky</h1>
+        <form method="POST" action="/">
+            <input type="text" name="zapisek" />
+            <input type="submit" name="odeslat" value="Zapsat" />
+        </form>
+        <ul>
+        <c:forEach var="zapisek" items="${zapisky}">
+            <li>${zapisek}</li>
+        </c:forEach>
+        </ul>
+    </body>
+</html>
