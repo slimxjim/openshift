@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:00:14 +0200] "GET /Spring3HibernateIntegration/index.jsp HTTP/1.1" 200 1098
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:00:25 +0200] "POST /Spring3HibernateIntegration/add HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:00:25 +0200] "GET /Spring3HibernateIntegration/ HTTP/1.1" 200 1366
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:00:33 +0200] "GET /Spring3HibernateIntegration/delete/1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:00:33 +0200] "GET /Spring3HibernateIntegration/ HTTP/1.1" 200 1098
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:03:50 +0200] "GET /Spring3HibernateIntegration/ HTTP/1.1" 200 1098
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:03:59 +0200] "POST /Spring3HibernateIntegration/add HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:03:59 +0200] "GET /Spring3HibernateIntegration/ HTTP/1.1" 200 1366
+0:0:0:0:0:0:0:1 - - [06/Apr/2014:00:04:01 +0200] "GET /Spring3HibernateIntegration/ HTTP/1.1" 200 1366

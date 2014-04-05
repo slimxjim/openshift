@@ -11,8 +11,14 @@ D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jsps
 \JavaNaWeb\src
 D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3270210014.index
 \JavaNaWeb\src
+D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3755826455.index
+\Spring3HibernateIntegration\src\main\java
 D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\580595247.index
 \JavaNaWeb_Maven\src\main\resources
+D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1669441228.index
+\Spring3HibernateIntegration\src\main\java
+D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3968223531.index
+\HelloWorldJSP\src
 D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3048852094.index
 \finto\src\main\java
 D:\DATA\WORKSPACE\GIT_OPENSHIFT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3209889290.index
